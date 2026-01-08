@@ -1,1 +1,1 @@
-A password-generator created using html, css and javascript
+A password-generator created using html, css and javascript.
