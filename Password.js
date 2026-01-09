@@ -1,4 +1,3 @@
-
 const PasswordBox = document.getElementById("Password");
 const passwordLength = 12;
 
