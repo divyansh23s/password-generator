@@ -1,6 +1,5 @@
 const PasswordBox = document.getElementById("Password");
 const passwordLength = 12;
-
 const lowercaseChars = "abcdefghijklmnopqrstuvwxyz";
 const uppercaseChars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 const numberChars = "0123456789";
