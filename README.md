@@ -24,3 +24,11 @@ One-click password generation
 Copy password to clipboard
 
 Clean and user-friendly UI
+
+🛠️ Technologies Used
+
+HTML – Structure of the application
+
+CSS – Styling and layout
+
+JavaScript – Logic for password generation and interactivity
