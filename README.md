@@ -73,4 +73,4 @@ Mobile app version
 
 👨‍💻 Author
 
-Created by
+Created by Divyansh Singh
