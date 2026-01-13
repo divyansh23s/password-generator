@@ -32,7 +32,7 @@ HTML – Structure of the application
 CSS – Styling and layout
 
 JavaScript – Logic for password generation and interactivity
-
+```
 📂 Project Structure
 random-password-generator/
 │
@@ -40,6 +40,7 @@ random-password-generator/
 ├── style.css       # CSS styles
 ├── script.js       # JavaScript logic
 └── README.md       # Project documentation
+```
 
 ⚙️ How to Use
 
